@@ -11,12 +11,12 @@
 
 .head-image-expanded{
     min-width: 230px;
-    max-width: 250px;
+    max-width: 350px;
 }
 
 .head-image-contracted{
-    max-width: 60px;
-    min-width: 40px;
+    max-width: 160px;
+    min-width: 60px;
 }
 
 .head-text{
