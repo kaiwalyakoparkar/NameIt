@@ -13,10 +13,10 @@ Here comes all the changes proposed through this PR
 <!--Check all the boxes which are aplicable to check the box correct follow the following conventions-->
 <!--
 [x] - Correct
+[X] - Correct
 [ x ] - wrong
 [x ] - wrong
 [ x] - wrong
-[X] - wrong
 -->
 
 ## Check List (Check all the boxes which are applicable)<!--Follow above conventions to check the box-->
